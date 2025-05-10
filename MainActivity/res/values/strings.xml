@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IRCTC Chart</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="Train_prompt">Choose the Train No</string-array>
+
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_activity1">MainActivity1</string>
+    <string name="title_activity_registration">Registration</string>
+
+    <string-array name="train_array">
+        <item>12157 Hutatma Express Pune_Jn Solapur_Jn</item>
+        <item>12158 Hutatma Express Solapur_Jn Pune_Jn</item>
+        <item>12169 Indrayani Superfast Express Pune_Jn Solapur_Jn</item>
+        <item>12170 Indrayani Superfast Express Solapur_Jn Pune_Jn</item>
+    </string-array>
+    <string-array name="bogi_no">
+        <item>D1</item>
+        <item>D2</item>
+        <item>D3</item>
+        <item>D4</item>
+        <item>D5</item>
+        <item>D6</item>
+        <item>D7</item>
+        <item>D8</item>
+        <item>D9</item>
+        <item>D10</item>
+        <item>D11</item>
+        <item>D12</item>
+    </string-array>
+
+    <string name="title_activity_irctcchart">IRCTCChart</string>
+    <string name="title_activity_chart">Chart</string>
+    <string name="title_activity_display_data">DisplayData</string>
+    <string name="title_activity_train__selection">Train Selection</string>
+    <string name="title_activity_main__chart">Main Chart</string>
+
+</resources>
